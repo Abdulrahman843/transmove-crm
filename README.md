@@ -6,7 +6,7 @@
 
 ![image](https://github.com/user-attachments/assets/fe8a2e8f-9182-480b-94c5-98b10d2ffc39)
 
-## Details
+## Contents
 
 ### Home Page
 - Clean, informative landing page with service categories: **Freight**, **Passenger**, and **Logistics**.
